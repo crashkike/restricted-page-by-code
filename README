@@ -1,0 +1,45 @@
+=== Plugin Name ===
+Contributors: Restriccion de paginas por codigo
+Tags: page, post, code, code restring
+Requires at least: 3.9.1
+Tested up to: 3.9.1
+Stable tag: 2.0
+License: GPLv2 or later
+
+Plugin para restringir el acceso a una pagina en especifico usando un codigo
+
+== Description ==
+
+Facilmente es crear codigos y restringir acceso a determinada pagina o post del
+sitio web. Estos codigos son administrados en el back office de wordpress.
+
+== Installation ==
+1. Sube el archivo al directorio `/wp-content/plugins/`
+2. Activa el plugin
+3. Registra lso codigos en 'Codigos'
+4. En la pagina que deseas restringir agrega el shortcode '[page_private]'
+
+== Frequently Asked Questions ==
+
+= A question that someone might have =
+
+
+= What about foo bar? =
+
+
+== Screenshots ==
+
+
+== Changelog ==
+
+= 2.0 =
+* Incrustacion del shortcode para poder usar la restriccion solo en una pagina
+
+
+== Upgrade Notice ==
+
+= 1.0 =
+Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+
+= 0.5 =
+This version fixes a security related bug.  Upgrade immediately.
